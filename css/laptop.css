@@ -696,6 +696,7 @@ img {
     text-align: center;
     border: 1px solid #ddd;
     width:450px ;
+    height:80px;
 }
 /* style for table */
 table, tr,td {
